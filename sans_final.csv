@@ -25,7 +25,7 @@
 0,JMPL,7,$I,4,,,,,
 0,BoneHRepeat,130,-10,200,1,300,3,183,
 0,BoneHRepeat,330,650,200,3,300,3,183,
-0.5,HeartMode,0,,,,,,,
+0.5,HeartMode,1,,,,,,,
 2,SansBody,HandLeft,,,,,,,
 0.2,SansSlam,2,,,,,,,
 0.3,SansBody,HandRight,,,,,,,
